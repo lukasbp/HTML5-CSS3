@@ -1,0 +1,37 @@
+body{
+    background-color: pink;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+h1{
+    color: lightgreen;
+    font-family: Arial;
+}
+
+h2{
+    color: black;
+    font-family: Arial;
+}
+
+p{
+    font-family: Arial;
+    font-size: 18px;
+}
+
+.img_default{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_logo{
+    width: 30px;
+}
